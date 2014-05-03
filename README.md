@@ -4,6 +4,8 @@ FullScreenMario
 *Active development of a version of FullScreenMario that uses JSON for maps and JS objects for Things is located at https://github.com/Diogenesthecynic/FullScreenMario-JSON. Not all functionality has been copied over to that project, and many maps there are missing key features. Once it has completely made up the features from the main branch, it will be merged back into the project here.*
 
 An HTML5 remake of the original Super Mario Brothers - expanded for modern browsing.
+
+
 I did not make this amazing game. It was copied from https://github.com/Diogenesthecynic/FullScreenMario. I merely changed the sprites to fit the Ignite UW theme. All credit should go to him. Check out his other work.
   - Grant Yuzon Hughes.
 
